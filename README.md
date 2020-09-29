@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hi, I am John 👋
 
+ #### 🔭 I’m currently working on 
+ 1. Google Research Football with Manchester City F.C. at Kaggle (https://www.kaggle.com/c/google-football)
+ 2. Coding Test :dizzy_face:
+____
+ #### 🌱 I’m currently learning ...
+ 1. Compiler, Intro to AI, Intro to Time Series, Statistical Theory (Purdue University FALL 2020)
+ 2. AWS Certified Developer - Associate
+____
+ #### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/keun-jun-park-24b280b5/)
+____
+ #### ⚡ Fun fact: 
+ * it is never too late for anything :raised_hands:
 <!--
 **keunjunpark/keunjunpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
