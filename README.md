@@ -15,10 +15,10 @@ ____
  * it is never too late for anything :raised_hands:
  ____
  #### 🚩 Competitions
- 1. NSA Codebreaker Challenge 2020 [link](https://codebreaker.ltsnet.net/home) 
- 1. Google Research Football with Manchester City F.C. at Kaggle [link](https://www.kaggle.com/c/google-football) (10/1/2020 ~ )
- 1. HackIN2020 (9/25/2020~09/27/2020) [link](https://hackin2020.ctfd.io/rulestc) <!-- 20th out of 30 -->.
- 1. M5 Forecasting - Accuracy (6/01/2020~06/30/2020) [link](https://www.kaggle.com/c/m5-forecasting-accuracy/overview/description) <!-- 2508th out of 5508 -->
+ 1. _NSA Codebreaker Challenge 2020_ [link](https://codebreaker.ltsnet.net/home)
+ 1. _Google Research Football with Manchester City F.C. at Kaggle (10/1/2020 ~ )_ [link](https://www.kaggle.com/c/google-football) 
+ 1. _HackIN2020 (9/25/2020~09/27/2020)_ [link](https://hackin2020.ctfd.io/rulestc) <!-- 20th out of 30 -->.
+ 1. _M5 Forecasting - Accuracy (6/01/2020~06/30/2020)_ [link](https://www.kaggle.com/c/m5-forecasting-accuracy/overview/description) <!-- 2508th out of 5508 -->
 <!--
 **keunjunpark/keunjunpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
