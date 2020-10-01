@@ -15,7 +15,7 @@ ____
  * it is never too late for anything :raised_hands:
  ____
  #### 🚩 Competitions
- 1. NSA CodeBreakder [link](https://codebreaker.ltsnet.net/home) 
+ 1. NSA Codebreaker Challenge 2020 [link](https://codebreaker.ltsnet.net/home) 
  1. Google Research Football with Manchester City F.C. at Kaggle [link](https://www.kaggle.com/c/google-football) (10/1/2020 ~ )
  1. HackIN2020 (9/25/2020~09/27/2020) [link](https://hackin2020.ctfd.io/rulestc) <!-- 20th out of 30 -->.
  1. M5 Forecasting - Accuracy (6/01/2020~06/30/2020) [link](https://www.kaggle.com/c/m5-forecasting-accuracy/overview/description) <!-- 2508th out of 5508 -->
