@@ -1,7 +1,6 @@
 ### Hi, I am John 👋
 
  #### 🔭 I’m currently working on 
- 1. Enhasoo Hompage
  1. Google Research Football with Manchester City F.C. at Kaggle (https://www.kaggle.com/c/google-football)
  1. Coding Test :dizzy_face:
 ____
