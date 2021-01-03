@@ -1,7 +1,7 @@
 ### Hi, I am John 👋
 
  #### 🔭 I’m currently working on 
- 1. Coding Test :dizzy_face:
+ 1. Android App - Todo List  & Calander - 
 ____
  #### 🌱 I’m currently learning ...
  1. AWS Certified Developer - Associate
