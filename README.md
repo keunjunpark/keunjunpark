@@ -4,7 +4,6 @@
  1. Android App - Todo List  & Calander - 
 ____
  #### 🌱 I’m currently learning ...
- 1. AWS Certified Developer - Associate
  1. Compiler, Intro to AI, Intro to Time Series, Statistical Theory (Purdue University FALL 2020)
 ____
  #### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/keun-jun-park-24b280b5/)
