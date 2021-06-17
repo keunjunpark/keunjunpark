@@ -1,10 +1,10 @@
 ### Hi, I am John 👋
 
  #### 🔭 I’m currently working on 
- 1. Android App - Todo List  & Calander - 
+ 1. 
 ____
  #### 🌱 I’m currently learning ...
- 1. Compiler, Intro to AI, Intro to Time Series, Statistical Theory (Purdue University FALL 2020)
+ 1. FHIR
 ____
  #### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/keun-jun-park-24b280b5/)
 ____
